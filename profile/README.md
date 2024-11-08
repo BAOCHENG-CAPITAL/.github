@@ -29,4 +29,18 @@
 
 ## 期货
 
+## 期权
+
+## 可转债
+
 ## 加密货币
+
+<img src="1.png" style="zoom: 40%;" />
+
+| Data           |                                                              |                                                              |
+| -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| Download       | Exchange<br />API<br />单个/多个交易对Ticker/Kline数据       | https://coinmarketcap.com/zh/<br />REST API (Representational State Transfer)<br />WebSocket API |
+| Feature/Factor | 趋势<br />动量<br />成交量<br />波动率<br />支撑与阻力<br />图表模式 | \                                                            |
+| Model/Strategy | Linear regression<br />Logistic regression<br />KNN<br />K-Means<br />Naive Bayes<br />Neural networks<br />Ensemble learning<br />XGBoost<br />仓位管理<br />风险控制 | Total Returns<br />Total Annualized Returns<br />Algorithm Volatility<br />Sharpe<br />Max Drawdown |
+| 实盘           | CCTX                                                         | \                                                            |
+
